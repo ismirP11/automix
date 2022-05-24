@@ -1,6 +1,7 @@
 ### Automatic music mixing with deep learning and out-of-domain data
 
-Audio samples from the listening test: 
+Audio samples from the listening test:
+(Due to copyright, we can only make S4 public)
 
 #### S4 - Dance-Pop
 <div id="contentBox" style="margin:0px auto; width:100%">
