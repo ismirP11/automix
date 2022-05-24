@@ -1,8 +1,8 @@
-## Automatic music mixing with deep learning and out-of-domain data
+# Automatic music mixing with deep learning and out-of-domain data
 
 ### Audio samples from the listening test:
 &nbsp;
-(Due to copyright, we can only make S4 public)
+(Due to copyright, we can only make Song 4 public)
 
 #### S4 - Dance-Pop
 <div id="contentBox" style="margin:0px auto; width:100%">
@@ -110,7 +110,7 @@
 
 ### Audio samples from the MUSDB18 test set:
 
-#### Cristina Vane - So Easy - Rock/Pop
+#### Rock/Pop: Cristina Vane - So Easy
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
