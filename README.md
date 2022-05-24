@@ -6,12 +6,12 @@ Audio samples from the listening test:
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
-    <source src="audio/008/model_human_mixture.mp3" type="audio/mp3" />
+    <source src="audio/018/model_human_mixture.mp3" type="audio/mp3" />
 </audio> <br />
 
 - Ours-L-Lb <br />
 <audio controls="controls">
-    <source src="audio/008/model_ours_2_TM_mixture.mp3" type="audio/mp3" />
+    <source src="audio/018/model_ours_2_TM_mixture.mp3" type="audio/mp3" />
 </audio> <br />
 
 - Ours-L-La <br />
