@@ -76,7 +76,7 @@ Audio samples from the dry test set:
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
-    <source src="audio/015/human_mixture_mixture.mp3" type="audio/mp3" />
+    <source src="audio/015/human_mixture.mp3" type="audio/mp3" />
 </audio> <br />
 
 - Ours-L-Lb <br />
