@@ -1,6 +1,6 @@
 ### Automatic music mixing with deep learning and out-of-domain data
 
-Audio samples from the listening test: TEST
+Audio samples from the listening test: 
 
 #### S4 - Dance-Pop
 <div id="contentBox" style="margin:0px auto; width:100%">
@@ -107,7 +107,6 @@ Audio samples from the dry test set:
 &nbsp;
 
 
-</div>
 &nbsp;
 &nbsp;
 
